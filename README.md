@@ -1,2 +1,2 @@
 # Android
-android sqllite
+android all of project 
